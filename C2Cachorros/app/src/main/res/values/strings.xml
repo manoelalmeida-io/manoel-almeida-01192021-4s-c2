@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">C2 Cachorros</string>
+    <string name="id_cachorro_1">ID: Cachorro 1</string>
+    <string name="id_cachorro_2">ID: Cachorro 2</string>
+    <string name="comprar_cachorros">Comprar cachorros</string>
+    <string name="erro">Erro: %1$s</string>
+    <string name="deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids %1$s e %2$s</string>
+    <string name="cachorro_raca">Cachorro %1$d: %2$s</string>
+    <string name="cachorro_preco">Preço total de compra: R$%1$.2f</string>
+    <string name="nao_encontrado">Não encontrado</string>
+</resources>

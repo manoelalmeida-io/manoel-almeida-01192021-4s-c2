@@ -8,4 +8,5 @@
     <string name="cachorro_raca">Cachorro %1$d: %2$s</string>
     <string name="cachorro_preco">Preço total de compra: R$%1$.2f</string>
     <string name="nao_encontrado">Não encontrado</string>
+    <string name="amigavel">Apenas amigáveis com crianças</string>
 </resources>

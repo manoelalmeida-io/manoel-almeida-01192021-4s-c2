@@ -57,6 +57,8 @@ class MainActivity : AppCompatActivity() {
       id2 = etCachorro2.text.toString().toInt()
     }
 
+    // Salvando os ids para caso o usuário queira consultar os mesmos cachorros
+    // ao voltar para a aplicação os campos já estarão preechidos
     val edit = preferencia.edit()
     edit.putString("id1", id1.toString())
     edit.putString("id2", id2.toString())
